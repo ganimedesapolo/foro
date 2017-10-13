@@ -19,4 +19,13 @@ class ExampleTest extends FeatureTestCase
              ->see($name)
              ->see("admin@styde.net");
     }
+
+
+    function test_the_posts_are_paginated(){
+
+        
+    }
+
+
+
 }
